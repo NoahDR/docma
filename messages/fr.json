@@ -1,0 +1,189 @@
+{
+  "Navigation": {
+    "aria": "Navigation principale",
+    "login": "Connexion",
+    "cta": "Commencer gratuitement"
+  },
+  "Footer": {
+    "tagline": "La plateforme cloud pour concessionnaires: clients, véhicules, contrats et factures dans un flux continu.",
+    "login": "Connexion",
+    "copyright": "© AutoSaaS"
+  },
+  "LandingMeta": {
+    "title": "AutoSaaS | Plus de temps pour les clients. Moins de temps au bureau.",
+    "description": "AutoSaaS centralise toutes les données clés: clients, véhicules, collaborateurs, contrats et factures. Cloud, conforme RGPD, hébergé en Allemagne."
+  },
+  "LandingPage": {
+    "headlineLine1": "Plus de temps pour les clients.",
+    "headlineLine2": "Moins de temps au bureau.",
+    "description": "AutoSaaS centralise toutes les données essentielles. Gérez les fiches clients, véhicules et collaborateurs, créez des factures en un clic et travaillez plus efficacement.",
+    "primaryCta": "Commencer gratuitement",
+    "secondaryCta": "Voir la démo",
+    "featureTitle": "Pourquoi passer à AutoSaaS",
+    "featureIntro": "Des avantages qui simplifient immédiatement le quotidien et réduisent la charge opérationnelle de votre équipe.",
+    "promise1": "Sans installation",
+    "promise2": "Prêt immédiatement",
+    "promise3": "Productif en quelques minutes",
+    "helpText": "Des questions? Nous vous aidons à démarrer.",
+    "finalTitle": "Essayez AutoSaaS gratuitement dans votre activité réelle.",
+    "finalDescription": "Démarrez sans installation et gratuitement. En quelques minutes, clients, véhicules et factures suivent un processus clair.",
+    "finalCta": "Créer un compte gratuit",
+    "trust": {
+      "ssl": "Chiffrement SSL 256 bits",
+      "hosting": "Conforme RGPD, serveurs en Allemagne",
+      "privacy": "Aucun partage avec des tiers"
+    }
+  },
+  "FeatureSection": {
+    "items": [
+      {
+        "title": "Tout dans le Cloud",
+        "bullets": [
+          "Aucune installation, démarrage directement dans le navigateur.",
+          "Serveurs hébergés en Allemagne.",
+          "Accessible partout et conforme au RGPD."
+        ]
+      },
+      {
+        "title": "Gestion simplifiée",
+        "bullets": [
+          "Gérez clients, véhicules et factures depuis un seul endroit.",
+          "Toutes les équipes travaillent avec les mêmes données actualisées.",
+          "Moins d'allers-retours et moins de changements d'outils."
+        ]
+      },
+      {
+        "title": "Contrats juridiquement sûrs",
+        "bullets": [
+          "Documents générés directement depuis la fiche client et véhicule.",
+          "Modèles vérifiés juridiquement prêts à l'emploi.",
+          "Personnalisez facilement les modèles selon vos besoins."
+        ]
+      },
+      {
+        "title": "Vue d'ensemble et conformité",
+        "bullets": [
+          "Chiffres et analyses accessibles à tout moment.",
+          "Documents archivés en toute sécurité au bon format.",
+          "Facturation électronique avec XRechnung et ZUGFeRD incluse."
+        ]
+      },
+      {
+        "title": "Automatisations",
+        "bullets": [
+          "Enregistrez les véhicules une fois et gérez-les centralement.",
+          "Annonces publiées automatiquement sur les plateformes de vente.",
+          "Plus de visibilité avec moins d'étapes manuelles."
+        ]
+      },
+      {
+        "title": "Fonctionnalités IA",
+        "bullets": [
+          "Créez des fiches véhicule directement par commande vocale.",
+          "L'IA convertit le contenu en points clairs et structurés.",
+          "Les flux de travail sont continuellement optimisés et accélérés."
+        ]
+      }
+    ]
+  },
+  "LoginMeta": {
+    "title": "Connexion",
+    "description": "Accès sécurisé à votre espace AutoSaaS."
+  },
+  "LoginPage": {
+    "title": "Connectez-vous et continuez votre travail.",
+    "description": "Accès sécurisé à votre compte AutoSaaS avec toutes les données clients, véhicules et factures au même endroit.",
+    "trust": {
+      "transport": "Chiffrement SSL 256 bits",
+      "hosting": "Conforme RGPD, serveurs en Allemagne",
+      "access": "Aucun partage avec des tiers"
+    },
+    "formTitle": "Bon retour",
+    "formDescription": "Utilisez votre email professionnel et votre mot de passe.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "nom@example.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "••••••••",
+      "submit": "Se connecter",
+      "hint": "Accès sécurisé avec votre compte AutoSaaS.",
+      "divider": "ou",
+      "social": {
+        "microsoft": "Continuer avec Microsoft",
+        "apple": "Continuer avec Apple",
+        "google": "Continuer avec Google"
+      },
+      "switch": {
+        "prompt": "Pas encore de compte?",
+        "action": "Commencer gratuitement"
+      }
+    }
+  },
+  "RegisterMeta": {
+    "title": "Inscription",
+    "description": "Créez votre compte AutoSaaS gratuit et démarrez immédiatement."
+  },
+  "RegisterPage": {
+    "title": "Commencez gratuitement et soyez opérationnel immédiatement.",
+    "description": "Créez votre compte AutoSaaS en moins d'une minute et gérez clients, véhicules et factures dans un flux unique et clair.",
+    "trust": {
+      "transport": "Chiffrement SSL 256 bits",
+      "hosting": "Conforme RGPD, serveurs en Allemagne",
+      "access": "Aucun partage avec des tiers"
+    },
+    "formTitle": "Créer votre compte gratuit",
+    "formDescription": "Utilisez votre email professionnel et choisissez un mot de passe sécurisé.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "nom@example.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Au moins 8 caractères",
+      "passwordConfirm": "Confirmer le mot de passe",
+      "passwordConfirmPlaceholder": "Répétez votre mot de passe",
+      "submit": "Créer un compte",
+      "hint": "En créant un compte, vous acceptez nos conditions d'utilisation et notre politique de confidentialité.",
+      "divider": "ou",
+      "social": {
+        "microsoft": "S'inscrire avec Microsoft",
+        "apple": "S'inscrire avec Apple",
+        "google": "S'inscrire avec Google"
+      },
+      "switch": {
+        "prompt": "Déjà inscrit?",
+        "action": "Se connecter"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "meta": {
+      "title": "Page introuvable",
+      "description": "La page demandee est introuvable."
+    },
+    "eyebrow": "404 / page introuvable",
+    "headlineLine1": "Cette page",
+    "headlineLine2": "est introuvable.",
+    "description": "La page demandee n'est pas disponible. Revenez a la page d'accueil pour continuer sans interruption.",
+    "primaryCta": "Vers l'accueil",
+    "diagnosticsEyebrow": "Diagnostic",
+    "diagnosticsTitle": "Verifier l'URL",
+    "diagnosticsDescription": "Veuillez verifier l'orthographe et le prefixe de langue dans l'adresse.",
+    "items": {
+      "routeMissing": {
+        "title": "Page introuvable",
+        "text": "L'adresse demandee n'existe pas dans cette application."
+      },
+      "checkUrl": {
+        "title": "Verifier l'URL",
+        "text": "Veuillez verifier l'orthographe et le prefixe de langue dans l'adresse."
+      },
+      "contentMoved": {
+        "title": "Contenu deplace",
+        "text": "La page a peut-etre ete renommee ou deplacee vers une autre section."
+      },
+      "nextStep": {
+        "title": "Etape suivante",
+        "text": "Revenez a la page d'accueil et utilisez la navigation principale."
+      }
+    }
+  }
+}

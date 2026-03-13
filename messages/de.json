@@ -1,0 +1,189 @@
+{
+  "Navigation": {
+    "aria": "Hauptnavigation",
+    "login": "Anmelden",
+    "cta": "Jetzt kostenlos starten"
+  },
+  "Footer": {
+    "tagline": "Die Cloud-Plattform für Autohäuser: Kunden, Fahrzeuge, Verträge und Rechnungen in einem durchgängigen Ablauf.",
+    "login": "Anmelden",
+    "copyright": "© AutoSaaS"
+  },
+  "LandingMeta": {
+    "title": "AutoSaaS | Mehr Zeit für Kunden. Weniger Zeit im Büro.",
+    "description": "AutoSaaS bündelt alle relevanten Daten zentral: Kunden, Fahrzeuge, Mitarbeiter, Verträge und Rechnungen. Cloudbasiert, DSGVO-konform, Server in Deutschland."
+  },
+  "LandingPage": {
+    "headlineLine1": "Mehr Zeit für Kunden.",
+    "headlineLine2": "Weniger Zeit im Büro.",
+    "description": "AutoSaaS legt alle relevanten Daten zentral ab. Du pflegst Kunden-, Fahrzeug- und Mitarbeiterstammdaten, erstellst Rechnungen mit einem Klick und arbeitest schneller, sauberer und mit mehr Fokus auf dein Kerngeschäft.",
+    "primaryCta": "Jetzt kostenlos starten",
+    "secondaryCta": "Demo ansehen",
+    "featureTitle": "Warum Du auf AutoSaaS wechseln solltest",
+    "featureIntro": "Vorteile, die Dir den Alltag sofort erleichtern und Dein Team im Tagesgeschäft spürbar entlasten.",
+    "promise1": "Ohne Installation",
+    "promise2": "Sofort einsatzbereit",
+    "promise3": "In Minuten produktiv",
+    "helpText": "Fragen? Wir helfen dir beim Einstieg.",
+    "finalTitle": "Teste AutoSaaS jetzt kostenlos im echten Tagesgeschäft.",
+    "finalDescription": "Starte ohne Installation und kostenlos. In wenigen Minuten laufen Kunden, Fahrzeuge und Rechnungen in einem klaren Prozess.",
+    "finalCta": "Jetzt kostenlos starten",
+    "trust": {
+      "ssl": "256-bit SSL-Verschlüsselung",
+      "hosting": "DSGVO-konform, Server in Deutschland",
+      "privacy": "Keine Weitergabe an Dritte"
+    }
+  },
+  "FeatureSection": {
+    "items": [
+      {
+        "title": "Alles in der Cloud",
+        "bullets": [
+          "Keine Installation, Start direkt im Browser.",
+          "Serverstandort Deutschland.",
+          "Überall im Web erreichbar und DSGVO-konform."
+        ]
+      },
+      {
+        "title": "Einfache Verwaltung",
+        "bullets": [
+          "Kunden-, Fahrzeug- und Rechnungsdaten zentral pflegen.",
+          "Alle Teams arbeiten mit einem aktuellen Datenstand.",
+          "Weniger Rückfragen und weniger Tool-Wechsel."
+        ]
+      },
+      {
+        "title": "Rechtssichere Verträge",
+        "bullets": [
+          "Dokumente direkt aus Kunden- und Fahrzeugstamm erstellen.",
+          "Rechtlich geprüfte Vorlagen sofort nutzen.",
+          "Vorlagen einfach und individuell anpassen."
+        ]
+      },
+      {
+        "title": "Überblick & Compliance",
+        "bullets": [
+          "Zahlen und Analysen jederzeit auf einen Blick.",
+          "Dokumente im Archivierungsformat sicher speichern.",
+          "E-Rechnung mit XRechnung und ZUGFeRD inklusive."
+        ]
+      },
+      {
+        "title": "Automationen",
+        "bullets": [
+          "Fahrzeuge einmal erfassen und zentral verwalten.",
+          "Inserate automatisiert auf Handelsplattformen veröffentlichen.",
+          "Mehr Reichweite bei weniger manuellen Schritten."
+        ]
+      },
+      {
+        "title": "KI Features",
+        "bullets": [
+          "Fahrzeugakten per Sprache direkt erfassen.",
+          "KI wandelt Inhalte automatisch in klare Bulletpoints.",
+          "Workflows werden laufend optimiert und beschleunigt."
+        ]
+      }
+    ]
+  },
+  "LoginMeta": {
+    "title": "Login",
+    "description": "Sicherer Zugang zu deinem AutoSaaS-Workspace."
+  },
+  "LoginPage": {
+    "title": "Anmelden und direkt weiterarbeiten.",
+    "description": "Sicherer Zugriff auf dein AutoSaaS-Konto mit allen Kunden-, Fahrzeug- und Rechnungsdaten an einem Ort.",
+    "trust": {
+      "transport": "256-bit SSL-Verschlüsselung",
+      "hosting": "DSGVO-konform, Server in Deutschland",
+      "access": "Keine Weitergabe an Dritte"
+    },
+    "formTitle": "Willkommen zurück",
+    "formDescription": "Nutze deine geschäftliche E-Mail und dein Passwort.",
+    "form": {
+      "email": "E-Mail",
+      "emailPlaceholder": "name@example.com",
+      "password": "Passwort",
+      "passwordPlaceholder": "••••••••",
+      "submit": "Anmelden",
+      "hint": "Sicherer Zugriff mit deinem AutoSaaS-Konto.",
+      "divider": "oder",
+      "social": {
+        "microsoft": "Mit Microsoft anmelden",
+        "apple": "Mit Apple anmelden",
+        "google": "Mit Google anmelden"
+      },
+      "switch": {
+        "prompt": "Noch kein Konto?",
+        "action": "Jetzt kostenlos starten"
+      }
+    }
+  },
+  "RegisterMeta": {
+    "title": "Registrierung",
+    "description": "Erstelle dein kostenloses AutoSaaS-Konto und starte sofort."
+  },
+  "RegisterPage": {
+    "title": "Jetzt kostenlos starten und direkt produktiv werden.",
+    "description": "Erstelle dein AutoSaaS-Konto in unter einer Minute und starte mit Kunden-, Fahrzeug- und Rechnungsdaten in einem klaren Workflow.",
+    "trust": {
+      "transport": "256-bit SSL-Verschlüsselung",
+      "hosting": "DSGVO-konform, Server in Deutschland",
+      "access": "Keine Weitergabe an Dritte"
+    },
+    "formTitle": "Kostenloses Konto erstellen",
+    "formDescription": "Nutze deine geschäftliche E-Mail und wähle ein sicheres Passwort.",
+    "form": {
+      "email": "E-Mail",
+      "emailPlaceholder": "name@example.com",
+      "password": "Passwort",
+      "passwordPlaceholder": "Mindestens 8 Zeichen",
+      "passwordConfirm": "Passwort wiederholen",
+      "passwordConfirmPlaceholder": "Passwort erneut eingeben",
+      "submit": "Konto erstellen",
+      "hint": "Mit der Registrierung akzeptierst du unsere Nutzungsbedingungen und Datenschutzrichtlinie.",
+      "divider": "oder",
+      "social": {
+        "microsoft": "Mit Microsoft registrieren",
+        "apple": "Mit Apple registrieren",
+        "google": "Mit Google registrieren"
+      },
+      "switch": {
+        "prompt": "Bereits registriert?",
+        "action": "Anmelden"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "meta": {
+      "title": "Seite nicht gefunden",
+      "description": "Die angeforderte Seite konnte nicht gefunden werden."
+    },
+    "eyebrow": "404 / Seite nicht gefunden",
+    "headlineLine1": "Diese Seite",
+    "headlineLine2": "wurde nicht gefunden.",
+    "description": "Die angeforderte Seite ist nicht verfuegbar. Starte auf der Startseite, um ohne Unterbrechung weiterzumachen.",
+    "primaryCta": "Zur Startseite",
+    "diagnosticsEyebrow": "Diagnose",
+    "diagnosticsTitle": "URL pruefen",
+    "diagnosticsDescription": "Bitte pruefe die Schreibweise und das Sprachkuerzel in der Adresse.",
+    "items": {
+      "routeMissing": {
+        "title": "Seite nicht gefunden",
+        "text": "Die angeforderte Adresse existiert in dieser Anwendung nicht."
+      },
+      "checkUrl": {
+        "title": "URL pruefen",
+        "text": "Bitte pruefe die Schreibweise und das Sprachkuerzel in der Adresse."
+      },
+      "contentMoved": {
+        "title": "Inhalt verschoben",
+        "text": "Die Seite wurde moeglicherweise umbenannt oder in einen anderen Bereich verschoben."
+      },
+      "nextStep": {
+        "title": "Naechster Schritt",
+        "text": "Gehe zur Startseite zurueck und nutze die Hauptnavigation."
+      }
+    }
+  }
+}

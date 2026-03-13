@@ -1,0 +1,189 @@
+{
+  "Navigation": {
+    "aria": "Primary navigation",
+    "login": "Log in",
+    "cta": "Start free now"
+  },
+  "Footer": {
+    "tagline": "The cloud platform for dealerships: customers, vehicles, contracts, and invoices in one continuous workflow.",
+    "login": "Log in",
+    "copyright": "© AutoSaaS"
+  },
+  "LandingMeta": {
+    "title": "AutoSaaS | More Time for Customers. Less Time in the Office.",
+    "description": "AutoSaaS centralizes all relevant data: customers, vehicles, employees, contracts, and invoices. Cloud-based, GDPR-compliant, hosted in Germany."
+  },
+  "LandingPage": {
+    "headlineLine1": "More Time for Customers.",
+    "headlineLine2": "Less Time in the Office.",
+    "description": "AutoSaaS stores all relevant data centrally. You manage customer, vehicle, and employee records, create invoices in one click, and work faster with more focus on your core business.",
+    "primaryCta": "Start free now",
+    "secondaryCta": "View demo",
+    "featureTitle": "Why You Should Switch to AutoSaaS",
+    "featureIntro": "Benefits that immediately simplify your day-to-day work and noticeably reduce operational load for your team.",
+    "promise1": "No installation",
+    "promise2": "Ready immediately",
+    "promise3": "Productive in minutes",
+    "helpText": "Questions? We help you get started.",
+    "finalTitle": "Try AutoSaaS for free in your real daily workflow.",
+    "finalDescription": "Start without installation and for free. In just a few minutes, customers, vehicles, and invoices run in one clear process.",
+    "finalCta": "Create free account",
+    "trust": {
+      "ssl": "256-bit SSL encryption",
+      "hosting": "GDPR-compliant, hosted in Germany",
+      "privacy": "No sharing with third parties"
+    }
+  },
+  "FeatureSection": {
+    "items": [
+      {
+        "title": "Everything in the Cloud",
+        "bullets": [
+          "No installation, start directly in the browser.",
+          "Hosted in Germany.",
+          "Available everywhere and GDPR-compliant."
+        ]
+      },
+      {
+        "title": "Simple Management",
+        "bullets": [
+          "Manage customer, vehicle, and billing data centrally.",
+          "All teams work on the same up-to-date data.",
+          "Less back-and-forth and fewer tool switches."
+        ]
+      },
+      {
+        "title": "Legally Safe Contracts",
+        "bullets": [
+          "Generate documents from customer and vehicle records.",
+          "Use legally reviewed templates instantly.",
+          "Customize templates to fit your workflow."
+        ]
+      },
+      {
+        "title": "Visibility & Compliance",
+        "bullets": [
+          "Track key numbers and analysis at any time.",
+          "Store documents safely in archival format.",
+          "E-invoicing with XRechnung and ZUGFeRD included."
+        ]
+      },
+      {
+        "title": "Automations",
+        "bullets": [
+          "Capture vehicles once and reuse data everywhere.",
+          "Publish listings automatically to marketplaces.",
+          "Increase reach with fewer manual steps."
+        ]
+      },
+      {
+        "title": "AI Features",
+        "bullets": [
+          "Capture vehicle records directly by voice.",
+          "AI transforms notes into clear bullet points.",
+          "Workflows improve continuously over time."
+        ]
+      }
+    ]
+  },
+  "LoginMeta": {
+    "title": "Login",
+    "description": "Secure access to your AutoSaaS workspace."
+  },
+  "LoginPage": {
+    "title": "Sign in and continue your work.",
+    "description": "Secure access to your AutoSaaS account with all customer, vehicle, and invoice data in one place.",
+    "trust": {
+      "transport": "256-bit SSL encryption",
+      "hosting": "GDPR-compliant, hosted in Germany",
+      "access": "No sharing with third parties"
+    },
+    "formTitle": "Welcome back",
+    "formDescription": "Use your business email and password.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "submit": "Sign in",
+      "hint": "Secure access with your AutoSaaS account.",
+      "divider": "or",
+      "social": {
+        "microsoft": "Continue with Microsoft",
+        "apple": "Continue with Apple",
+        "google": "Continue with Google"
+      },
+      "switch": {
+        "prompt": "No account yet?",
+        "action": "Start free now"
+      }
+    }
+  },
+  "RegisterMeta": {
+    "title": "Registration",
+    "description": "Create your free AutoSaaS account and get started immediately."
+  },
+  "RegisterPage": {
+    "title": "Start free now and get productive right away.",
+    "description": "Create your AutoSaaS account in under a minute and start managing customers, vehicles, and invoices in one clear workflow.",
+    "trust": {
+      "transport": "256-bit SSL encryption",
+      "hosting": "GDPR-compliant, hosted in Germany",
+      "access": "No sharing with third parties"
+    },
+    "formTitle": "Create your free account",
+    "formDescription": "Use your business email and choose a secure password.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "At least 8 characters",
+      "passwordConfirm": "Confirm password",
+      "passwordConfirmPlaceholder": "Repeat your password",
+      "submit": "Create account",
+      "hint": "By creating an account, you agree to our terms and privacy policy.",
+      "divider": "or",
+      "social": {
+        "microsoft": "Sign up with Microsoft",
+        "apple": "Sign up with Apple",
+        "google": "Sign up with Google"
+      },
+      "switch": {
+        "prompt": "Already registered?",
+        "action": "Sign in"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "meta": {
+      "title": "Page not found",
+      "description": "The requested page could not be found."
+    },
+    "eyebrow": "404 / page not found",
+    "headlineLine1": "This page",
+    "headlineLine2": "was not found.",
+    "description": "The requested page is not available. Start from the homepage to continue without interruption.",
+    "primaryCta": "Back to home",
+    "diagnosticsEyebrow": "Diagnostics",
+    "diagnosticsTitle": "Check URL",
+    "diagnosticsDescription": "Please check the spelling and the locale prefix in the address.",
+    "items": {
+      "routeMissing": {
+        "title": "Page not found",
+        "text": "The requested address does not exist in this application."
+      },
+      "checkUrl": {
+        "title": "Check URL",
+        "text": "Please check the spelling and the locale prefix in the address."
+      },
+      "contentMoved": {
+        "title": "Content moved",
+        "text": "The page may have been renamed or moved to another section."
+      },
+      "nextStep": {
+        "title": "Next step",
+        "text": "Go back to the homepage and use the main navigation."
+      }
+    }
+  }
+}

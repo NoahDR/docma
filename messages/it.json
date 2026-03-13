@@ -1,0 +1,189 @@
+{
+  "Navigation": {
+    "aria": "Navigazione principale",
+    "login": "Accedi",
+    "cta": "Inizia gratis ora"
+  },
+  "Footer": {
+    "tagline": "La piattaforma cloud per concessionarie: clienti, veicoli, contratti e fatture in un unico flusso continuo.",
+    "login": "Accedi",
+    "copyright": "© AutoSaaS"
+  },
+  "LandingMeta": {
+    "title": "AutoSaaS | Più tempo per i clienti. Meno tempo in ufficio.",
+    "description": "AutoSaaS centralizza tutti i dati rilevanti: clienti, veicoli, dipendenti, contratti e fatture. Cloud, conforme GDPR, ospitato in Germania."
+  },
+  "LandingPage": {
+    "headlineLine1": "Più tempo per i clienti.",
+    "headlineLine2": "Meno tempo in ufficio.",
+    "description": "AutoSaaS centralizza tutti i dati importanti. Gestisci anagrafiche clienti, veicoli e collaboratori, crei fatture con un clic e lavori in modo più rapido e ordinato.",
+    "primaryCta": "Inizia gratis ora",
+    "secondaryCta": "Guarda demo",
+    "featureTitle": "Perché passare ad AutoSaaS",
+    "featureIntro": "Vantaggi che semplificano subito il lavoro quotidiano e alleggeriscono concretamente il team operativo.",
+    "promise1": "Senza installazione",
+    "promise2": "Pronto subito",
+    "promise3": "Produttivo in pochi minuti",
+    "helpText": "Domande? Ti aiutiamo a iniziare.",
+    "finalTitle": "Prova AutoSaaS gratis nel tuo flusso reale.",
+    "finalDescription": "Inizia senza installazione e senza costi. In pochi minuti clienti, veicoli e fatture seguono un processo chiaro.",
+    "finalCta": "Crea account gratuito",
+    "trust": {
+      "ssl": "Crittografia SSL a 256 bit",
+      "hosting": "Conforme GDPR, server in Germania",
+      "privacy": "Nessuna condivisione con terze parti"
+    }
+  },
+  "FeatureSection": {
+    "items": [
+      {
+        "title": "Tutto nel Cloud",
+        "bullets": [
+          "Nessuna installazione, avvio diretto dal browser.",
+          "Server ubicati in Germania.",
+          "Accessibile ovunque, conforme al GDPR."
+        ]
+      },
+      {
+        "title": "Gestione semplice",
+        "bullets": [
+          "Anagrafiche clienti, veicoli e fatture in un unico posto.",
+          "Tutti i team lavorano con gli stessi dati aggiornati.",
+          "Meno domande e meno cambio di strumenti."
+        ]
+      },
+      {
+        "title": "Contratti legalmente validi",
+        "bullets": [
+          "Documenti generati direttamente dall'anagrafica clienti e veicoli.",
+          "Modelli verificati legalmente pronti all'uso.",
+          "Modelli personalizzabili con facilità."
+        ]
+      },
+      {
+        "title": "Panoramica e conformità",
+        "bullets": [
+          "Numeri e analisi sempre disponibili a colpo d'occhio.",
+          "Documenti archiviati in formato sicuro.",
+          "Fatturazione elettronica con XRechnung e ZUGFeRD inclusa."
+        ]
+      },
+      {
+        "title": "Automazioni",
+        "bullets": [
+          "Inserire i veicoli una volta e gestirli centralmente.",
+          "Annunci pubblicati automaticamente sulle piattaforme commerciali.",
+          "Maggiore visibilità con meno passaggi manuali."
+        ]
+      },
+      {
+        "title": "Funzionalità IA",
+        "bullets": [
+          "Registra schede veicolo direttamente con la voce.",
+          "L'IA converte i contenuti in punti chiari e strutturati.",
+          "I workflow vengono continuamente ottimizzati e velocizzati."
+        ]
+      }
+    ]
+  },
+  "LoginMeta": {
+    "title": "Login",
+    "description": "Accesso sicuro al tuo workspace AutoSaaS."
+  },
+  "LoginPage": {
+    "title": "Accedi e continua a lavorare.",
+    "description": "Accesso sicuro al tuo account AutoSaaS con tutti i dati di clienti, veicoli e fatture in un unico posto.",
+    "trust": {
+      "transport": "Crittografia SSL a 256 bit",
+      "hosting": "Conforme GDPR, server in Germania",
+      "access": "Nessuna condivisione con terze parti"
+    },
+    "formTitle": "Bentornato",
+    "formDescription": "Usa email aziendale e password.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "nome@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "submit": "Accedi",
+      "hint": "Accesso sicuro con il tuo account AutoSaaS.",
+      "divider": "oppure",
+      "social": {
+        "microsoft": "Continua con Microsoft",
+        "apple": "Continua con Apple",
+        "google": "Continua con Google"
+      },
+      "switch": {
+        "prompt": "Non hai ancora un account?",
+        "action": "Inizia gratis ora"
+      }
+    }
+  },
+  "RegisterMeta": {
+    "title": "Registrazione",
+    "description": "Crea il tuo account AutoSaaS gratuito e inizia subito."
+  },
+  "RegisterPage": {
+    "title": "Inizia gratis ora e diventa subito operativo.",
+    "description": "Crea il tuo account AutoSaaS in meno di un minuto e gestisci clienti, veicoli e fatture in un unico flusso chiaro.",
+    "trust": {
+      "transport": "Crittografia SSL a 256 bit",
+      "hosting": "Conforme GDPR, server in Germania",
+      "access": "Nessuna condivisione con terze parti"
+    },
+    "formTitle": "Crea il tuo account gratuito",
+    "formDescription": "Usa la tua email aziendale e scegli una password sicura.",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "nome@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Almeno 8 caratteri",
+      "passwordConfirm": "Ripeti password",
+      "passwordConfirmPlaceholder": "Inserisci di nuovo la password",
+      "submit": "Crea account",
+      "hint": "Creando un account accetti i termini di utilizzo e l'informativa privacy.",
+      "divider": "oppure",
+      "social": {
+        "microsoft": "Registrati con Microsoft",
+        "apple": "Registrati con Apple",
+        "google": "Registrati con Google"
+      },
+      "switch": {
+        "prompt": "Hai già un account?",
+        "action": "Accedi"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "meta": {
+      "title": "Pagina non trovata",
+      "description": "La pagina richiesta non e stata trovata."
+    },
+    "eyebrow": "404 / pagina non trovata",
+    "headlineLine1": "Questa pagina",
+    "headlineLine2": "non e stata trovata.",
+    "description": "La pagina richiesta non e disponibile. Torna alla homepage per continuare senza interruzioni.",
+    "primaryCta": "Alla homepage",
+    "diagnosticsEyebrow": "Diagnostica",
+    "diagnosticsTitle": "Controlla URL",
+    "diagnosticsDescription": "Controlla l'ortografia e il prefisso della lingua nell'indirizzo.",
+    "items": {
+      "routeMissing": {
+        "title": "Pagina non trovata",
+        "text": "L'indirizzo richiesto non esiste in questa applicazione."
+      },
+      "checkUrl": {
+        "title": "Controlla URL",
+        "text": "Controlla l'ortografia e il prefisso della lingua nell'indirizzo."
+      },
+      "contentMoved": {
+        "title": "Contenuto spostato",
+        "text": "La pagina potrebbe essere stata rinominata o spostata in un'altra sezione."
+      },
+      "nextStep": {
+        "title": "Prossimo passaggio",
+        "text": "Torna alla homepage e usa la navigazione principale."
+      }
+    }
+  }
+}
