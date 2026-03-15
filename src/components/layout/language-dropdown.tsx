@@ -41,6 +41,8 @@ function buildLocalizedPath(pathname: string, targetLocale: AppLocale) {
 type LanguageDropdownProps = {
   locale: AppLocale
   buttonClassName?: string
+  labelMode?: "code" | "name"
+  menuPlacement?: "bottom-end" | "bottom-start" | "top-end" | "top-start"
   variant?: VariantProps<typeof buttonVariants>["variant"]
   size?: VariantProps<typeof buttonVariants>["size"]
 }
@@ -48,6 +50,8 @@ type LanguageDropdownProps = {
 export function LanguageDropdown({
   locale,
   buttonClassName,
+  labelMode = "code",
+  menuPlacement = "bottom-end",
   variant = "outline",
   size = "sm",
 }: LanguageDropdownProps) {
@@ -59,6 +63,19 @@ export function LanguageDropdown({
   const menuRef = useRef<HTMLDivElement | null>(null)
   const optionRefs = useRef<Array<HTMLButtonElement | null>>([])
   const currentOption = languageOptions.find((option) => option.code === locale) ?? languageOptions[0]
+  const isLabelMode = labelMode === "name"
+
+  const menuPlacementClassName = {
+    "bottom-end": "right-0 top-[calc(100%+0.6rem)] origin-top-right",
+    "bottom-start": "left-0 top-[calc(100%+0.6rem)] origin-top-left",
+    "top-end": "bottom-[calc(100%+0.6rem)] right-0 origin-bottom-right",
+    "top-start": "bottom-[calc(100%+0.6rem)] left-0 origin-bottom-left",
+  }[menuPlacement]
+
+  const menuClosedClassName =
+    menuPlacement === "top-end" || menuPlacement === "top-start"
+      ? "pointer-events-none translate-y-1 opacity-0"
+      : "pointer-events-none -translate-y-1 opacity-0"
 
   const switchLocale = (nextLocale: AppLocale) => {
     if (nextLocale === locale) {
@@ -171,13 +188,15 @@ export function LanguageDropdown({
         aria-expanded={open}
         className={cn(
           buttonVariants({ variant, size }),
-          "min-w-[4.75rem] shrink-0 whitespace-nowrap px-3 text-[11px] font-semibold uppercase tracking-[0.12em]",
+          isLabelMode
+            ? "min-w-[9.5rem] justify-between gap-3 px-4 text-sm font-medium normal-case tracking-normal"
+            : "min-w-[4.75rem] whitespace-nowrap px-3 text-[11px] font-semibold uppercase tracking-[0.12em]",
           buttonClassName
         )}
         onClick={() => setOpen((current) => !current)}
         onKeyDown={handleTriggerKeyDown}
       >
-        <span>{currentOption.code.toUpperCase()}</span>
+        <span className="min-w-0 truncate">{isLabelMode ? currentOption.label : currentOption.code.toUpperCase()}</span>
       </button>
 
       <div
@@ -187,8 +206,9 @@ export function LanguageDropdown({
         aria-label={triggerLabelByLocale[locale](currentOption.label)}
         aria-hidden={!open}
         className={cn(
-          "surface-panel surface-panel-strong !absolute right-0 top-[calc(100%+0.6rem)] z-50 min-w-[13.5rem] rounded-[1.25rem] p-1.5 shadow-[0_28px_56px_-38px_rgba(16,29,69,0.4)] transition-[opacity,transform] duration-200 ease-[var(--ease-emphasized)]",
-          open ? "pointer-events-auto translate-y-0 opacity-100" : "pointer-events-none -translate-y-1 opacity-0"
+          "surface-panel surface-panel-strong !absolute z-50 min-w-[13.5rem] rounded-[1.25rem] p-1.5 shadow-[0_28px_56px_-38px_rgba(16,29,69,0.4)] transition-[opacity,transform] duration-200 ease-[var(--ease-emphasized)]",
+          menuPlacementClassName,
+          open ? "pointer-events-auto translate-y-0 opacity-100" : menuClosedClassName
         )}
       >
         <div className="grid gap-1">

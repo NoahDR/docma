@@ -382,7 +382,7 @@ function MobileNavDrawer({
 
         <div className="mt-auto grid gap-3 pt-6">
           <div className="flex flex-wrap items-center gap-2">
-            <LanguageDropdown locale={locale} size="icon-sm" buttonClassName="min-w-0 size-11 px-0" />
+            <LanguageDropdown locale={locale} size="sm" labelMode="name" menuPlacement="top-start" />
             <ThemeToggle locale={locale} />
             <Button
               variant="outline"
