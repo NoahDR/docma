@@ -1,11 +1,10 @@
 import {
   CarFront,
-  Cloud,
-  FileText,
-  Megaphone,
+  FileSignature,
   ShieldCheck,
   Sparkles,
-  UserRoundPlus,
+  Users,
+  Wrench,
 } from "lucide-react"
 
 import { MotionReveal } from "@/components/motion/reveal"
@@ -19,11 +18,11 @@ type FeatureSectionCopy = Pick<LandingPageCopy, "featureTitle" | "featureIntro">
 }
 
 const featureIcons = [
-  Cloud,
-  UserRoundPlus,
-  FileText,
+  CarFront,
+  Users,
+  FileSignature,
+  Wrench,
   ShieldCheck,
-  Megaphone,
   Sparkles,
 ] as const
 

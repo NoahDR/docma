@@ -2,86 +2,86 @@
   "Navigation": {
     "aria": "Primary navigation",
     "login": "Log in",
-    "cta": "Start free now"
+    "cta": "Start for free"
   },
   "Footer": {
-    "tagline": "The cloud platform for dealerships: customers, vehicles, contracts, and invoices in one continuous workflow.",
+    "tagline": "The operating system for modern dealerships: inventory, customers, sales, workshop, and invoicing in one connected platform.",
     "login": "Log in",
     "copyright": "© AutoSaaS"
   },
   "LandingMeta": {
-    "title": "AutoSaaS | More Time for Customers. Less Time in the Office.",
-    "description": "AutoSaaS centralizes all relevant data: customers, vehicles, employees, contracts, and invoices. Cloud-based, GDPR-compliant, hosted in Germany."
+    "title": "AutoSaaS | The Dealer Management System Built to Become Your ERP.",
+    "description": "AutoSaaS unifies vehicle inventory, customer CRM, sales, workshop, and finance for dealerships. Cloud-based, GDPR-compliant, hosted in Germany."
   },
   "LandingPage": {
-    "headlineLine1": "More Time for Customers.",
-    "headlineLine2": "Less Time in the Office.",
-    "description": "AutoSaaS stores all relevant data centrally. You manage customer, vehicle, and employee records, create invoices in one click, and work faster with more focus on your core business.",
-    "primaryCta": "Start free now",
-    "secondaryCta": "View demo",
-    "featureTitle": "Why You Should Switch to AutoSaaS",
-    "featureIntro": "Benefits that immediately simplify your day-to-day work and noticeably reduce operational load for your team.",
-    "promise1": "No installation",
-    "promise2": "Ready immediately",
-    "promise3": "Productive in minutes",
-    "helpText": "Questions? We help you get started.",
-    "finalTitle": "Try AutoSaaS for free in your real daily workflow.",
-    "finalDescription": "Start without installation and for free. In just a few minutes, customers, vehicles, and invoices run in one clear process.",
+    "headlineLine1": "The Operating System",
+    "headlineLine2": "for Modern Dealerships.",
+    "description": "AutoSaaS unifies inventory, customers, sales, and workshop management in one platform. Built to replace fragmented tools — and designed to grow into your dealership's complete ERP.",
+    "primaryCta": "Start for free",
+    "secondaryCta": "See it in action",
+    "featureTitle": "Everything your dealership runs on — one platform.",
+    "featureIntro": "From vehicle intake to final invoice, AutoSaaS covers every operation without the tool-switching and data loss that slows your team down.",
+    "promise1": "Full vehicle inventory management",
+    "promise2": "Integrated workshop & service module",
+    "promise3": "Digital contracts & compliant invoicing",
+    "helpText": "Talk to our team. We'll set you up.",
+    "finalTitle": "Start free. Scale to your full dealership group.",
+    "finalDescription": "Begin with core DMS features at no cost. Upgrade as your operations grow — AutoSaaS is architected to become your complete dealership ERP.",
     "finalCta": "Create free account",
     "trust": {
       "ssl": "256-bit SSL encryption",
       "hosting": "GDPR-compliant, hosted in Germany",
-      "privacy": "No sharing with third parties"
+      "privacy": "No data shared with third parties"
     }
   },
   "FeatureSection": {
     "items": [
       {
-        "title": "Everything in the Cloud",
+        "title": "Vehicle Inventory",
         "bullets": [
-          "No installation, start directly in the browser.",
-          "Hosted in Germany.",
-          "Available everywhere and GDPR-compliant."
+          "Full stock view with VIN, status, mileage, and pricing in one place.",
+          "Instant sync across listings, sales records, and workshop history.",
+          "Import vehicles from any source and manage them centrally."
         ]
       },
       {
-        "title": "Simple Management",
+        "title": "Customer & CRM",
         "bullets": [
-          "Manage customer, vehicle, and billing data centrally.",
-          "All teams work on the same up-to-date data.",
-          "Less back-and-forth and fewer tool switches."
+          "Unified customer records with full purchase history and service logs.",
+          "Track every interaction across sales, workshop, and follow-up.",
+          "Automated reminders keep your pipeline and retention moving."
         ]
       },
       {
-        "title": "Legally Safe Contracts",
+        "title": "Sales & Contracting",
         "bullets": [
-          "Generate documents from customer and vehicle records.",
-          "Use legally reviewed templates instantly.",
-          "Customize templates to fit your workflow."
+          "Generate legally reviewed contracts directly from deal data.",
+          "Digital signing and document workflows built into the flow.",
+          "Close faster with fewer manual steps and zero lost paperwork."
         ]
       },
       {
-        "title": "Visibility & Compliance",
+        "title": "Workshop & Service",
         "bullets": [
-          "Track key numbers and analysis at any time.",
-          "Store documents safely in archival format.",
-          "E-invoicing with XRechnung and ZUGFeRD included."
+          "Create work orders from vehicle records in one click.",
+          "Assign jobs to technicians and track real-time progress.",
+          "Parts, labor time, and invoicing fully integrated."
         ]
       },
       {
-        "title": "Automations",
+        "title": "Finance & Compliance",
         "bullets": [
-          "Capture vehicles once and reuse data everywhere.",
-          "Publish listings automatically to marketplaces.",
-          "Increase reach with fewer manual steps."
+          "GDPR-ready, with XRechnung and ZUGFeRD included.",
+          "Store documents in legally required archival formats.",
+          "Audit trails, KPI dashboards, and reporting at any time."
         ]
       },
       {
-        "title": "AI Features",
+        "title": "AI & Automation",
         "bullets": [
-          "Capture vehicle records directly by voice.",
-          "AI transforms notes into clear bullet points.",
-          "Workflows improve continuously over time."
+          "Capture vehicle records by voice — AI formats and files them.",
+          "Auto-publish listings to all major automotive marketplaces.",
+          "Workflows that learn from your data and improve continuously."
         ]
       }
     ]
@@ -92,17 +92,17 @@
   },
   "LoginPage": {
     "title": "Sign in and continue your work.",
-    "description": "Secure access to your AutoSaaS account with all customer, vehicle, and invoice data in one place.",
+    "description": "Secure access to your AutoSaaS account — inventory, customers, workshop, and invoices in one place.",
     "trust": {
       "transport": "256-bit SSL encryption",
       "hosting": "GDPR-compliant, hosted in Germany",
-      "access": "No sharing with third parties"
+      "access": "No data shared with third parties"
     },
     "formTitle": "Welcome back",
     "formDescription": "Use your business email and password.",
     "form": {
       "email": "Email",
-      "emailPlaceholder": "name@example.com",
+      "emailPlaceholder": "name@dealership.com",
       "password": "Password",
       "passwordPlaceholder": "••••••••",
       "submit": "Sign in",
@@ -115,7 +115,7 @@
       },
       "switch": {
         "prompt": "No account yet?",
-        "action": "Start free now"
+        "action": "Start for free"
       }
     }
   },
@@ -124,18 +124,18 @@
     "description": "Create your free AutoSaaS account and get started immediately."
   },
   "RegisterPage": {
-    "title": "Start free now and get productive right away.",
-    "description": "Create your AutoSaaS account in under a minute and start managing customers, vehicles, and invoices in one clear workflow.",
+    "title": "Start free. Get your dealership running in minutes.",
+    "description": "Create your AutoSaaS account in under a minute and start managing inventory, customers, and workshop orders in one clear workflow.",
     "trust": {
       "transport": "256-bit SSL encryption",
       "hosting": "GDPR-compliant, hosted in Germany",
-      "access": "No sharing with third parties"
+      "access": "No data shared with third parties"
     },
     "formTitle": "Create your free account",
     "formDescription": "Use your business email and choose a secure password.",
     "form": {
       "email": "Email",
-      "emailPlaceholder": "name@example.com",
+      "emailPlaceholder": "name@dealership.com",
       "password": "Password",
       "passwordPlaceholder": "At least 8 characters",
       "passwordConfirm": "Confirm password",

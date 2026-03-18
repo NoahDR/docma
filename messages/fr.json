@@ -5,104 +5,104 @@
     "cta": "Commencer gratuitement"
   },
   "Footer": {
-    "tagline": "La plateforme cloud pour concessionnaires: clients, véhicules, contrats et factures dans un flux continu.",
+    "tagline": "Le système d'exploitation des concessions modernes: inventaire, clients, ventes, atelier et facturation sur une plateforme connectée.",
     "login": "Connexion",
     "copyright": "© AutoSaaS"
   },
   "LandingMeta": {
-    "title": "AutoSaaS | Plus de temps pour les clients. Moins de temps au bureau.",
-    "description": "AutoSaaS centralise toutes les données clés: clients, véhicules, collaborateurs, contrats et factures. Cloud, conforme RGPD, hébergé en Allemagne."
+    "title": "AutoSaaS | Le système de gestion concessionnaire conçu pour devenir votre ERP.",
+    "description": "AutoSaaS unifie inventaire, CRM, ventes, atelier et finance pour les concessions. Cloud, conforme RGPD, hébergé en Allemagne."
   },
   "LandingPage": {
-    "headlineLine1": "Plus de temps pour les clients.",
-    "headlineLine2": "Moins de temps au bureau.",
-    "description": "AutoSaaS centralise toutes les données essentielles. Gérez les fiches clients, véhicules et collaborateurs, créez des factures en un clic et travaillez plus efficacement.",
+    "headlineLine1": "Le système d'exploitation",
+    "headlineLine2": "des concessions modernes.",
+    "description": "AutoSaaS unifie inventaire, clients, ventes et atelier sur une seule plateforme. Conçu pour remplacer les outils fragmentés — et évoluer vers l'ERP complet de votre concession.",
     "primaryCta": "Commencer gratuitement",
     "secondaryCta": "Voir la démo",
-    "featureTitle": "Pourquoi passer à AutoSaaS",
-    "featureIntro": "Des avantages qui simplifient immédiatement le quotidien et réduisent la charge opérationnelle de votre équipe.",
-    "promise1": "Sans installation",
-    "promise2": "Prêt immédiatement",
-    "promise3": "Productif en quelques minutes",
-    "helpText": "Des questions? Nous vous aidons à démarrer.",
-    "finalTitle": "Essayez AutoSaaS gratuitement dans votre activité réelle.",
-    "finalDescription": "Démarrez sans installation et gratuitement. En quelques minutes, clients, véhicules et factures suivent un processus clair.",
+    "featureTitle": "Tout ce sur quoi votre concession fonctionne — une seule plateforme.",
+    "featureIntro": "De l'entrée du véhicule à la facture finale, AutoSaaS couvre chaque opération sans changements d'outils ni pertes de données.",
+    "promise1": "Gestion complète de l'inventaire",
+    "promise2": "Module atelier & service intégré",
+    "promise3": "Contrats digitaux & facturation conforme",
+    "helpText": "Parlez à notre équipe. Nous vous configurerons.",
+    "finalTitle": "Commencez gratuitement. Évoluez vers votre groupe de concessions.",
+    "finalDescription": "Démarrez avec les fonctions DMS essentielles sans frais. Montez en gamme à mesure que vos opérations grandissent — AutoSaaS est conçu pour devenir votre ERP complet.",
     "finalCta": "Créer un compte gratuit",
     "trust": {
       "ssl": "Chiffrement SSL 256 bits",
       "hosting": "Conforme RGPD, serveurs en Allemagne",
-      "privacy": "Aucun partage avec des tiers"
+      "privacy": "Aucun partage de données avec des tiers"
     }
   },
   "FeatureSection": {
     "items": [
       {
-        "title": "Tout dans le Cloud",
+        "title": "Inventaire Véhicules",
         "bullets": [
-          "Aucune installation, démarrage directement dans le navigateur.",
-          "Serveurs hébergés en Allemagne.",
-          "Accessible partout et conforme au RGPD."
+          "Vue complète du stock avec VIN, statut, kilométrage et tarif en un seul endroit.",
+          "Synchronisation instantanée entre annonces, dossiers de vente et historique atelier.",
+          "Importez des véhicules de n'importe quelle source et gérez-les de façon centralisée."
         ]
       },
       {
-        "title": "Gestion simplifiée",
+        "title": "Clients & CRM",
         "bullets": [
-          "Gérez clients, véhicules et factures depuis un seul endroit.",
-          "Toutes les équipes travaillent avec les mêmes données actualisées.",
-          "Moins d'allers-retours et moins de changements d'outils."
+          "Dossiers clients unifiés avec historique complet des achats et des services.",
+          "Suivez chaque interaction entre ventes, atelier et suivi client.",
+          "Les rappels automatisés maintiennent votre pipeline et votre fidélisation."
         ]
       },
       {
-        "title": "Contrats juridiquement sûrs",
+        "title": "Ventes & Contrats",
         "bullets": [
-          "Documents générés directement depuis la fiche client et véhicule.",
-          "Modèles vérifiés juridiquement prêts à l'emploi.",
-          "Personnalisez facilement les modèles selon vos besoins."
+          "Générez des contrats vérifiés juridiquement directement depuis les données de la transaction.",
+          "Signatures digitales et workflows documentaires intégrés au processus.",
+          "Clôturez plus vite avec moins d'étapes manuelles et aucun document perdu."
         ]
       },
       {
-        "title": "Vue d'ensemble et conformité",
+        "title": "Atelier & Service",
         "bullets": [
-          "Chiffres et analyses accessibles à tout moment.",
-          "Documents archivés en toute sécurité au bon format.",
-          "Facturation électronique avec XRechnung et ZUGFeRD incluse."
+          "Créez des ordres de travail depuis les fiches véhicules en un clic.",
+          "Affectez les tâches aux techniciens et suivez la progression en temps réel.",
+          "Pièces, temps de travail et facturation entièrement intégrés."
         ]
       },
       {
-        "title": "Automatisations",
+        "title": "Finance & Conformité",
         "bullets": [
-          "Enregistrez les véhicules une fois et gérez-les centralement.",
-          "Annonces publiées automatiquement sur les plateformes de vente.",
-          "Plus de visibilité avec moins d'étapes manuelles."
+          "Conforme RGPD, avec XRechnung et ZUGFeRD inclus.",
+          "Stockez les documents dans les formats d'archivage légalement requis.",
+          "Pistes d'audit, tableaux de bord KPI et rapports disponibles à tout moment."
         ]
       },
       {
-        "title": "Fonctionnalités IA",
+        "title": "IA & Automatisation",
         "bullets": [
-          "Créez des fiches véhicule directement par commande vocale.",
-          "L'IA convertit le contenu en points clairs et structurés.",
-          "Les flux de travail sont continuellement optimisés et accélérés."
+          "Saisissez les fiches véhicules par voix — l'IA les formate et les classe.",
+          "Publication automatique des annonces sur toutes les grandes places de marché.",
+          "Des workflows qui apprennent de vos données et s'améliorent en continu."
         ]
       }
     ]
   },
   "LoginMeta": {
     "title": "Connexion",
-    "description": "Accès sécurisé à votre espace AutoSaaS."
+    "description": "Accès sécurisé à votre espace de travail AutoSaaS."
   },
   "LoginPage": {
-    "title": "Connectez-vous et continuez votre travail.",
-    "description": "Accès sécurisé à votre compte AutoSaaS avec toutes les données clients, véhicules et factures au même endroit.",
+    "title": "Connectez-vous et reprenez là où vous en étiez.",
+    "description": "Accès sécurisé à votre compte AutoSaaS — inventaire, clients, atelier et factures en un seul endroit.",
     "trust": {
       "transport": "Chiffrement SSL 256 bits",
       "hosting": "Conforme RGPD, serveurs en Allemagne",
-      "access": "Aucun partage avec des tiers"
+      "access": "Aucun partage de données avec des tiers"
     },
-    "formTitle": "Bon retour",
+    "formTitle": "Bienvenue de retour",
     "formDescription": "Utilisez votre email professionnel et votre mot de passe.",
     "form": {
       "email": "Email",
-      "emailPlaceholder": "nom@example.com",
+      "emailPlaceholder": "nom@concession.fr",
       "password": "Mot de passe",
       "passwordPlaceholder": "••••••••",
       "submit": "Se connecter",
@@ -114,7 +114,7 @@
         "google": "Continuer avec Google"
       },
       "switch": {
-        "prompt": "Pas encore de compte?",
+        "prompt": "Pas encore de compte ?",
         "action": "Commencer gratuitement"
       }
     }
@@ -124,23 +124,23 @@
     "description": "Créez votre compte AutoSaaS gratuit et démarrez immédiatement."
   },
   "RegisterPage": {
-    "title": "Commencez gratuitement et soyez opérationnel immédiatement.",
-    "description": "Créez votre compte AutoSaaS en moins d'une minute et gérez clients, véhicules et factures dans un flux unique et clair.",
+    "title": "Commencez gratuitement. Votre concession opérationnelle en minutes.",
+    "description": "Créez votre compte AutoSaaS en moins d'une minute et gérez inventaire, clients et ordres d'atelier dans un flux de travail clair.",
     "trust": {
       "transport": "Chiffrement SSL 256 bits",
       "hosting": "Conforme RGPD, serveurs en Allemagne",
-      "access": "Aucun partage avec des tiers"
+      "access": "Aucun partage de données avec des tiers"
     },
     "formTitle": "Créer votre compte gratuit",
     "formDescription": "Utilisez votre email professionnel et choisissez un mot de passe sécurisé.",
     "form": {
       "email": "Email",
-      "emailPlaceholder": "nom@example.com",
+      "emailPlaceholder": "nom@concession.fr",
       "password": "Mot de passe",
       "passwordPlaceholder": "Au moins 8 caractères",
       "passwordConfirm": "Confirmer le mot de passe",
       "passwordConfirmPlaceholder": "Répétez votre mot de passe",
-      "submit": "Créer un compte",
+      "submit": "Créer le compte",
       "hint": "En créant un compte, vous acceptez nos conditions d'utilisation et notre politique de confidentialité.",
       "divider": "ou",
       "social": {
@@ -149,40 +149,40 @@
         "google": "S'inscrire avec Google"
       },
       "switch": {
-        "prompt": "Déjà inscrit?",
+        "prompt": "Déjà inscrit ?",
         "action": "Se connecter"
       }
     }
   },
   "NotFoundPage": {
     "meta": {
-      "title": "Page introuvable",
-      "description": "La page demandee est introuvable."
+      "title": "Page non trouvée",
+      "description": "La page demandée est introuvable."
     },
-    "eyebrow": "404 / page introuvable",
+    "eyebrow": "404 / page non trouvée",
     "headlineLine1": "Cette page",
     "headlineLine2": "est introuvable.",
-    "description": "La page demandee n'est pas disponible. Revenez a la page d'accueil pour continuer sans interruption.",
-    "primaryCta": "Vers l'accueil",
-    "diagnosticsEyebrow": "Diagnostic",
-    "diagnosticsTitle": "Verifier l'URL",
-    "diagnosticsDescription": "Veuillez verifier l'orthographe et le prefixe de langue dans l'adresse.",
+    "description": "La page demandée n'est pas disponible. Revenez à la page d'accueil pour continuer sans interruption.",
+    "primaryCta": "Retour à l'accueil",
+    "diagnosticsEyebrow": "Diagnostics",
+    "diagnosticsTitle": "Vérifier l'URL",
+    "diagnosticsDescription": "Veuillez vérifier l'orthographe et le préfixe de langue dans l'adresse.",
     "items": {
       "routeMissing": {
-        "title": "Page introuvable",
-        "text": "L'adresse demandee n'existe pas dans cette application."
+        "title": "Page non trouvée",
+        "text": "L'adresse demandée n'existe pas dans cette application."
       },
       "checkUrl": {
-        "title": "Verifier l'URL",
-        "text": "Veuillez verifier l'orthographe et le prefixe de langue dans l'adresse."
+        "title": "Vérifier l'URL",
+        "text": "Veuillez vérifier l'orthographe et le préfixe de langue dans l'adresse."
       },
       "contentMoved": {
-        "title": "Contenu deplace",
-        "text": "La page a peut-etre ete renommee ou deplacee vers une autre section."
+        "title": "Contenu déplacé",
+        "text": "La page a peut-être été renommée ou déplacée vers une autre section."
       },
       "nextStep": {
-        "title": "Etape suivante",
-        "text": "Revenez a la page d'accueil et utilisez la navigation principale."
+        "title": "Prochaine étape",
+        "text": "Retournez à la page d'accueil et utilisez la navigation principale."
       }
     }
   }

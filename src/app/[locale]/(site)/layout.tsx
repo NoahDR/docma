@@ -23,7 +23,7 @@ export default async function SiteShellLayout({ children, params }: SiteShellLay
     <div className="flex min-h-dvh flex-col">
       <a
         href="#main-content"
-        className="sr-only fixed left-4 top-4 z-[70] rounded-full border border-border bg-background px-4 py-2 text-sm font-medium text-foreground shadow-[0_18px_40px_-30px_rgba(16,29,69,0.3)] focus:not-sr-only focus:outline-none focus:ring-2 focus:ring-ring"
+        className="sr-only fixed left-4 top-4 z-[70] rounded-full border border-border bg-background px-4 py-2 text-sm font-medium text-foreground shadow-[var(--shadow-soft)] focus:not-sr-only focus:outline-none focus:ring-2 focus:ring-ring"
       >
         {skipLinkByLocale[locale]}
       </a>

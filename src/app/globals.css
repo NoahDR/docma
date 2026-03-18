@@ -183,117 +183,117 @@
 :root {
   color-scheme: light;
 
-  --background: #edf2fa;
-  --foreground: #0f1c36;
-  --card: rgba(250, 252, 255, 0.82);
-  --card-foreground: #0f1c36;
-  --primary: #2250cf;
-  --primary-foreground: #f7f9ff;
-  --secondary: #dfe8f8;
-  --secondary-foreground: #11306b;
-  --muted: #dde5f3;
-  --muted-foreground: #5e6f94;
-  --accent: #2f64e1;
-  --accent-foreground: #f5f8ff;
-  --highlight: #2f64e1;
-  --highlight-foreground: #f5f8ff;
-  --success: #2f64e1;
-  --success-foreground: #f5f8ff;
-  --destructive: #c25a5f;
-  --destructive-foreground: #fff7f8;
-  --border: rgba(33, 69, 164, 0.14);
-  --input: rgba(33, 69, 164, 0.14);
-  --ring: rgba(47, 100, 225, 0.32);
+  --background: oklch(97.6% 0.008 22);
+  --foreground: oklch(24.2% 0.03 22);
+  --card: oklch(99.2% 0.006 22 / 0.84);
+  --card-foreground: oklch(24.2% 0.03 22);
+  --primary: oklch(54.2% 0.182 25);
+  --primary-foreground: oklch(98.6% 0.004 22);
+  --secondary: oklch(93.4% 0.018 22);
+  --secondary-foreground: oklch(34.8% 0.06 24);
+  --muted: oklch(92.5% 0.012 22);
+  --muted-foreground: oklch(49.4% 0.03 24);
+  --accent: oklch(57.8% 0.172 25);
+  --accent-foreground: oklch(98.6% 0.004 22);
+  --highlight: oklch(57.8% 0.172 25);
+  --highlight-foreground: oklch(98.6% 0.004 22);
+  --success: oklch(56.5% 0.132 30);
+  --success-foreground: oklch(98.6% 0.004 22);
+  --destructive: oklch(52.6% 0.188 26);
+  --destructive-foreground: oklch(98.6% 0.004 22);
+  --border: oklch(64.8% 0.04 24 / 0.18);
+  --input: oklch(64.8% 0.04 24 / 0.18);
+  --ring: oklch(57.8% 0.172 25 / 0.3);
   --radius: 1rem;
 
-  --surface-quiet: rgba(255, 255, 255, 0.58);
-  --surface-soft: linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(245, 248, 255, 0.74));
-  --surface-strong: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(237, 243, 255, 0.84));
-  --surface-hero: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(235, 242, 255, 0.78));
-  --surface-inset: rgba(228, 236, 248, 0.72);
-  --surface-outline: rgba(38, 78, 176, 0.12);
-  --surface-shadow: 0 28px 72px -52px rgba(18, 33, 76, 0.22);
-  --surface-shadow-strong: 0 40px 90px -62px rgba(17, 31, 72, 0.28);
-  --section-line: rgba(53, 92, 190, 0.12);
-  --hero-bg: linear-gradient(180deg, rgba(248, 250, 255, 0.84), rgba(234, 241, 252, 0.72));
+  --surface-quiet: oklch(99.4% 0.005 22 / 0.62);
+  --surface-soft: linear-gradient(180deg, oklch(99.6% 0.005 22 / 0.9), oklch(96.7% 0.012 22 / 0.78));
+  --surface-strong: linear-gradient(180deg, oklch(99.8% 0.004 22 / 0.96), oklch(95.5% 0.016 24 / 0.86));
+  --surface-hero: linear-gradient(180deg, oklch(99.2% 0.005 22 / 0.38), oklch(96% 0.014 24 / 0.28));
+  --surface-inset: oklch(94.2% 0.015 24 / 0.76);
+  --surface-outline: oklch(61.2% 0.05 24 / 0.14);
+  --surface-shadow: 0 28px 72px -52px oklch(29.5% 0.046 24 / 0.18);
+  --surface-shadow-strong: 0 40px 90px -62px oklch(27.2% 0.05 24 / 0.24);
+  --section-line: oklch(60.4% 0.054 24 / 0.14);
+  --hero-bg: linear-gradient(180deg, oklch(99.2% 0.005 22 / 0.86), oklch(95.9% 0.014 24 / 0.74));
   --page-gradient:
-    radial-gradient(circle at 16% 10%, rgba(93, 132, 221, 0.12), transparent 26%),
-    radial-gradient(circle at 84% 4%, rgba(70, 105, 196, 0.12), transparent 24%),
-    linear-gradient(180deg, #f7f9fd 0%, #edf2fa 46%, #e9eff8 100%);
-  --ornament-strong: rgba(47, 100, 225, 0.12);
-  --ornament-soft: rgba(47, 100, 225, 0.06);
-  --protocol-shell: linear-gradient(180deg, rgba(252, 254, 255, 0.96), rgba(238, 244, 255, 0.88));
-  --protocol-panel: rgba(255, 255, 255, 0.74);
-  --protocol-panel-strong: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(240, 245, 255, 0.86));
-  --protocol-meta: #687da5;
-  --protocol-title: #1b315b;
-  --protocol-body: #45608f;
-  --shadow-soft: 0 18px 44px -34px rgba(16, 29, 69, 0.22);
-  --shadow-card: 0 28px 72px -50px rgba(18, 33, 76, 0.2);
-  --shadow-lift: 0 38px 88px -58px rgba(15, 29, 70, 0.26);
-  --shadow-focus: 0 0 0 3px rgba(47, 100, 225, 0.18);
-  --button-shadow-primary: 0 18px 36px -24px rgba(20, 47, 118, 0.38);
-  --button-shadow-outline: 0 16px 32px -28px rgba(17, 29, 67, 0.14);
-  --button-shadow-secondary: 0 16px 34px -26px rgba(19, 44, 109, 0.22);
-  --button-shadow-destructive: 0 20px 40px -28px rgba(88, 24, 24, 0.32);
-  --brand-shadow: 0 16px 34px -20px rgba(20, 47, 118, 0.34);
+    radial-gradient(circle at 16% 10%, oklch(69% 0.11 24 / 0.15), transparent 26%),
+    radial-gradient(circle at 84% 4%, oklch(61% 0.092 28 / 0.14), transparent 24%),
+    linear-gradient(180deg, oklch(99% 0.004 22) 0%, oklch(97.6% 0.008 22) 46%, oklch(96.1% 0.01 24) 100%);
+  --ornament-strong: oklch(57.8% 0.172 25 / 0.14);
+  --ornament-soft: oklch(57.8% 0.172 25 / 0.07);
+  --protocol-shell: linear-gradient(180deg, oklch(99.5% 0.004 22 / 0.96), oklch(96.2% 0.013 24 / 0.9));
+  --protocol-panel: oklch(99.5% 0.004 22 / 0.76);
+  --protocol-panel-strong: linear-gradient(180deg, oklch(99.6% 0.004 22 / 0.93), oklch(96.1% 0.014 24 / 0.87));
+  --protocol-meta: oklch(55.4% 0.04 24);
+  --protocol-title: oklch(27.8% 0.04 23);
+  --protocol-body: oklch(41.8% 0.038 24);
+  --shadow-soft: 0 18px 44px -34px oklch(29.5% 0.046 24 / 0.18);
+  --shadow-card: 0 28px 72px -50px oklch(28.4% 0.046 24 / 0.2);
+  --shadow-lift: 0 38px 88px -58px oklch(26.8% 0.052 24 / 0.24);
+  --shadow-focus: 0 0 0 3px oklch(57.8% 0.172 25 / 0.18);
+  --button-shadow-primary: 0 18px 36px -24px oklch(36.4% 0.1 24 / 0.36);
+  --button-shadow-outline: 0 16px 32px -28px oklch(29.5% 0.046 24 / 0.14);
+  --button-shadow-secondary: 0 16px 34px -26px oklch(38.6% 0.074 24 / 0.22);
+  --button-shadow-destructive: 0 20px 40px -28px oklch(33% 0.09 24 / 0.28);
+  --brand-shadow: 0 16px 34px -20px oklch(35.6% 0.096 24 / 0.32);
 }
 
 .dark {
   color-scheme: dark;
 
-  --background: #0c1528;
-  --foreground: #e8efff;
-  --card: rgba(13, 24, 46, 0.84);
-  --card-foreground: #e8efff;
-  --primary: #4f82ff;
-  --primary-foreground: #f4f7ff;
-  --secondary: #16305f;
-  --secondary-foreground: #edf3ff;
-  --muted: #12203a;
-  --muted-foreground: #97add7;
-  --accent: #7aa4ff;
-  --accent-foreground: #f4f7ff;
-  --highlight: #7aa4ff;
-  --highlight-foreground: #f4f7ff;
-  --success: #7aa4ff;
-  --success-foreground: #f4f7ff;
-  --destructive: #d06f76;
-  --destructive-foreground: #fff5f6;
-  --border: rgba(129, 164, 255, 0.18);
-  --input: rgba(129, 164, 255, 0.18);
-  --ring: rgba(122, 164, 255, 0.3);
-  --surface-quiet: rgba(11, 20, 38, 0.64);
-  --surface-soft: linear-gradient(180deg, rgba(15, 26, 49, 0.9), rgba(11, 20, 38, 0.8));
-  --surface-strong: linear-gradient(180deg, rgba(17, 30, 58, 0.95), rgba(10, 20, 39, 0.88));
-  --surface-hero: linear-gradient(180deg, rgba(18, 31, 60, 0.94), rgba(10, 20, 39, 0.84));
-  --surface-inset: rgba(18, 31, 58, 0.82);
-  --surface-outline: rgba(129, 164, 255, 0.16);
+  --background: oklch(18.2% 0.018 20);
+  --foreground: oklch(95.4% 0.008 22);
+  --card: oklch(22.4% 0.018 20 / 0.84);
+  --card-foreground: oklch(95.4% 0.008 22);
+  --primary: oklch(67.2% 0.15 25);
+  --primary-foreground: oklch(98.2% 0.004 22);
+  --secondary: oklch(31.2% 0.046 24);
+  --secondary-foreground: oklch(96.6% 0.008 22);
+  --muted: oklch(25.8% 0.022 22);
+  --muted-foreground: oklch(77.4% 0.03 24);
+  --accent: oklch(72.8% 0.132 25);
+  --accent-foreground: oklch(98.2% 0.004 22);
+  --highlight: oklch(72.8% 0.132 25);
+  --highlight-foreground: oklch(98.2% 0.004 22);
+  --success: oklch(70.4% 0.1 30);
+  --success-foreground: oklch(98.2% 0.004 22);
+  --destructive: oklch(68.2% 0.156 26);
+  --destructive-foreground: oklch(98.2% 0.004 22);
+  --border: oklch(76.4% 0.044 25 / 0.16);
+  --input: oklch(76.4% 0.044 25 / 0.16);
+  --ring: oklch(72.8% 0.132 25 / 0.28);
+  --surface-quiet: oklch(20.8% 0.018 20 / 0.68);
+  --surface-soft: linear-gradient(180deg, oklch(24.6% 0.022 20 / 0.92), oklch(20% 0.018 20 / 0.82));
+  --surface-strong: linear-gradient(180deg, oklch(27% 0.026 20 / 0.96), oklch(19.2% 0.018 20 / 0.9));
+  --surface-hero: linear-gradient(180deg, oklch(27.6% 0.026 20 / 0.48), oklch(19.1% 0.018 20 / 0.36));
+  --surface-inset: oklch(26% 0.024 20 / 0.84);
+  --surface-outline: oklch(76.4% 0.044 25 / 0.14);
   --surface-shadow: 0 30px 72px -52px rgba(0, 0, 0, 0.58);
   --surface-shadow-strong: 0 42px 92px -60px rgba(0, 0, 0, 0.66);
-  --section-line: rgba(129, 164, 255, 0.12);
-  --hero-bg: linear-gradient(180deg, rgba(14, 25, 47, 0.84), rgba(11, 20, 38, 0.7));
+  --section-line: oklch(76.4% 0.044 25 / 0.14);
+  --hero-bg: linear-gradient(180deg, oklch(24.6% 0.022 20 / 0.52), oklch(19.6% 0.018 20 / 0.38));
   --page-gradient:
-    radial-gradient(circle at 14% 10%, rgba(66, 102, 192, 0.18), transparent 28%),
-    radial-gradient(circle at 86% 0%, rgba(48, 77, 154, 0.2), transparent 24%),
-    linear-gradient(180deg, #0f1a31 0%, #0c1528 48%, #0a1323 100%);
-  --ornament-strong: rgba(122, 164, 255, 0.12);
-  --ornament-soft: rgba(122, 164, 255, 0.06);
-  --protocol-shell: linear-gradient(180deg, rgba(18, 30, 56, 0.96), rgba(11, 21, 39, 0.9));
+    radial-gradient(circle at 14% 10%, oklch(58% 0.09 25 / 0.22), transparent 28%),
+    radial-gradient(circle at 86% 0%, oklch(50% 0.08 28 / 0.22), transparent 24%),
+    linear-gradient(180deg, oklch(20.6% 0.018 20) 0%, oklch(18.2% 0.018 20) 48%, oklch(16.5% 0.014 18) 100%);
+  --ornament-strong: oklch(72.8% 0.132 25 / 0.14);
+  --ornament-soft: oklch(72.8% 0.132 25 / 0.07);
+  --protocol-shell: linear-gradient(180deg, oklch(27.6% 0.024 20 / 0.97), oklch(20.2% 0.018 20 / 0.9));
   --protocol-panel: rgba(255, 255, 255, 0.05);
-  --protocol-panel-strong: linear-gradient(180deg, rgba(30, 48, 88, 0.72), rgba(17, 31, 57, 0.72));
-  --protocol-meta: #8ba4d4;
-  --protocol-title: #eef4ff;
-  --protocol-body: #d2def8;
+  --protocol-panel-strong: linear-gradient(180deg, oklch(33.4% 0.036 24 / 0.74), oklch(24.8% 0.024 22 / 0.74));
+  --protocol-meta: oklch(78.8% 0.03 24);
+  --protocol-title: oklch(96.6% 0.006 22);
+  --protocol-body: oklch(89.6% 0.016 22);
   --shadow-soft: 0 20px 48px -34px rgba(0, 0, 0, 0.62);
   --shadow-card: 0 30px 72px -48px rgba(0, 0, 0, 0.68);
   --shadow-lift: 0 40px 88px -56px rgba(0, 0, 0, 0.72);
-  --shadow-focus: 0 0 0 3px rgba(122, 164, 255, 0.24);
-  --button-shadow-primary: 0 18px 36px -24px rgba(34, 72, 163, 0.42);
+  --shadow-focus: 0 0 0 3px oklch(72.8% 0.132 25 / 0.22);
+  --button-shadow-primary: 0 18px 36px -24px oklch(45% 0.11 24 / 0.4);
   --button-shadow-outline: 0 16px 32px -28px rgba(0, 0, 0, 0.44);
-  --button-shadow-secondary: 0 16px 34px -26px rgba(29, 58, 128, 0.32);
-  --button-shadow-destructive: 0 20px 40px -28px rgba(88, 24, 24, 0.36);
-  --brand-shadow: 0 16px 34px -20px rgba(16, 31, 72, 0.42);
+  --button-shadow-secondary: 0 16px 34px -26px oklch(40% 0.08 24 / 0.3);
+  --button-shadow-destructive: 0 20px 40px -28px oklch(38% 0.09 24 / 0.34);
+  --brand-shadow: 0 16px 34px -20px oklch(43% 0.1 24 / 0.36);
 }
 
 @layer base {
@@ -401,6 +401,41 @@
     top: 0;
     height: 1px;
     background: linear-gradient(90deg, transparent, var(--section-line), transparent);
+  }
+
+  /* ─── Hero video background overlay ─────────────────────────────────────── */
+  .hero-video-overlay {
+    background:
+      /* 1. Top fade: header clarity + sky separation */
+      linear-gradient(
+        to bottom,
+        color-mix(in oklab, var(--background) 72%, transparent) 0%,
+        color-mix(in oklab, var(--background) 22%, transparent) 20%,
+        transparent 40%
+      ),
+      /* 2. Bottom blend: seamless merge into next section */
+      linear-gradient(
+        to top,
+        var(--background) 0%,
+        color-mix(in oklab, var(--background) 88%, transparent) 10%,
+        color-mix(in oklab, var(--background) 52%, transparent) 24%,
+        color-mix(in oklab, var(--background) 16%, transparent) 38%,
+        transparent 52%
+      ),
+      /* 3. Left vignette: natural edge framing */
+      linear-gradient(
+        to right,
+        color-mix(in oklab, var(--background) 46%, transparent) 0%,
+        transparent 24%
+      ),
+      /* 4. Right vignette: natural edge framing */
+      linear-gradient(
+        to left,
+        color-mix(in oklab, var(--background) 40%, transparent) 0%,
+        transparent 24%
+      ),
+      /* 5. Global ambient depth tint */
+      color-mix(in oklab, var(--background) 16%, transparent);
   }
 
   .type-eyebrow {
@@ -538,6 +573,8 @@
     border-radius: var(--radius-hero);
     background: var(--surface-hero);
     box-shadow: var(--surface-shadow-strong);
+    backdrop-filter: blur(28px) saturate(160%);
+    -webkit-backdrop-filter: blur(28px) saturate(160%);
   }
 
   .surface-panel-quiet {

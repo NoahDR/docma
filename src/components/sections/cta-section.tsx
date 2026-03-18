@@ -15,20 +15,20 @@ type FinalCopy = Pick<
 
 const priceByLocale: Record<AppLocale, { labels: [string, string, string]; units: [string, string, string] }> = {
   de: {
-    labels: ["Free", "Starter", "Pro"],
-    units: ["0€", "30€ / Monat", "90€ / Monat"],
+    labels: ["Free", "Autohaus", "Enterprise"],
+    units: ["0€", "79€ / Monat", "Individuell"],
   },
   en: {
-    labels: ["Free", "Starter", "Pro"],
-    units: ["€0", "€30 / month", "€90 / month"],
+    labels: ["Free", "Dealership", "Enterprise"],
+    units: ["€0", "€79 / month", "Custom"],
   },
   it: {
-    labels: ["Free", "Starter", "Pro"],
-    units: ["0€", "30€ / mese", "90€ / mese"],
+    labels: ["Free", "Concessionaria", "Enterprise"],
+    units: ["0€", "79€ / mese", "Su misura"],
   },
   fr: {
-    labels: ["Free", "Starter", "Pro"],
-    units: ["0€", "30€ / mois", "90€ / mois"],
+    labels: ["Free", "Concession", "Enterprise"],
+    units: ["0€", "79€ / mois", "Sur devis"],
   },
 }
 

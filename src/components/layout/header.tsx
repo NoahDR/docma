@@ -344,7 +344,7 @@ function MobileNavDrawer({
       <button
         type="button"
         className={cn(
-          "absolute inset-0 bg-[rgba(10,18,35,0.18)] backdrop-blur-[2px] transition-opacity duration-200 ease-[var(--ease-emphasized)] dark:bg-[rgba(5,11,22,0.46)]",
+          "absolute inset-0 bg-foreground/8 backdrop-blur-[2px] transition-opacity duration-200 ease-[var(--ease-emphasized)] dark:bg-background/78",
           drawerOpen ? "opacity-100" : "opacity-0"
         )}
         aria-label={drawerLabels[locale].close}
@@ -382,7 +382,7 @@ function MobileNavDrawer({
 
         <div className="mt-auto grid gap-3 pt-6">
           <div className="flex flex-wrap items-center gap-2">
-            <LanguageDropdown locale={locale} size="sm" labelMode="name" menuPlacement="top-start" />
+            <LanguageDropdown locale={locale} size="icon-sm" buttonClassName="min-w-0 size-11 px-0" />
             <ThemeToggle locale={locale} />
             <Button
               variant="outline"

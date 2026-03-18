@@ -10,28 +10,28 @@ type PhilosophyCopy = {
 
 const philosophyCopy: Record<AppLocale, PhilosophyCopy> = {
   de: {
-    contrast: "Kein Springen zwischen mehreren Programmen.",
-    line1: "Wir priorisieren:",
-    line2: "einen einzigen, klaren Flow für Verkauf, Organisation und Abrechnung.",
-    accent: "klaren Flow",
+    contrast: "Kein Wechsel mehr zwischen DMS, Excel und Papier-Aufträgen.",
+    line1: "Wir bauen für:",
+    line2: "ein verbundenes System für Verkauf, Werkstatt und Finanzen.",
+    accent: "verbundenes System",
   },
   en: {
-    contrast: "No jumping between multiple tools.",
-    line1: "We optimize for:",
-    line2: "one clear operating flow across sales, operations, and billing.",
-    accent: "clear operating flow",
+    contrast: "No more switching between DMS, Excel, and paper repair orders.",
+    line1: "We build for:",
+    line2: "one connected system across sales, workshop, and finance.",
+    accent: "one connected system",
   },
   it: {
-    contrast: "Nessun salto tra più programmi.",
-    line1: "Noi ottimizziamo per:",
-    line2: "un unico flusso operativo tra vendita, organizzazione e fatturazione.",
-    accent: "unico flusso operativo",
+    contrast: "Niente più salti tra DMS, Excel e ordini di riparazione cartacei.",
+    line1: "Costruiamo per:",
+    line2: "un sistema connesso tra vendite, officina e finanza.",
+    accent: "sistema connesso",
   },
   fr: {
-    contrast: "Aucun va-et-vient entre plusieurs outils.",
-    line1: "Nous optimisons pour:",
-    line2: "un flux opérationnel unique entre vente, organisation et facturation.",
-    accent: "flux opérationnel unique",
+    contrast: "Fini les allers-retours entre DMS, Excel et ordres de réparation papier.",
+    line1: "Nous construisons pour:",
+    line2: "un système connecté entre ventes, atelier et finance.",
+    accent: "système connecté",
   },
 }
 

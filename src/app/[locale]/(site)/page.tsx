@@ -5,6 +5,7 @@ import { FeatureSection } from "@/components/sections/feature-section"
 import { HeroSection } from "@/components/sections/hero-section"
 import { PhilosophySection } from "@/components/sections/philosophy-section"
 import { ProtocolSection } from "@/components/sections/protocol-section"
+import { VisionSection } from "@/components/sections/vision-section"
 import { getLocaleDictionary, type LocalePageProps } from "@/lib/locale-route.server"
 
 export async function generateMetadata({ params }: LocalePageProps): Promise<Metadata> {
@@ -33,6 +34,7 @@ export default async function LandingPage({ params }: LocalePageProps) {
       />
 
       <PhilosophySection locale={locale} />
+      <VisionSection locale={locale} />
       <ProtocolSection locale={locale} />
       <CtaSection locale={locale} copy={copy} />
     </>

@@ -2,111 +2,111 @@
   "Navigation": {
     "aria": "Hauptnavigation",
     "login": "Anmelden",
-    "cta": "Jetzt kostenlos starten"
+    "cta": "Kostenlos starten"
   },
   "Footer": {
-    "tagline": "Die Cloud-Plattform für Autohäuser: Kunden, Fahrzeuge, Verträge und Rechnungen in einem durchgängigen Ablauf.",
+    "tagline": "Das Betriebssystem für moderne Autohäuser: Fahrzeuge, Kunden, Verkauf, Werkstatt und Rechnungen auf einer verbundenen Plattform.",
     "login": "Anmelden",
     "copyright": "© AutoSaaS"
   },
   "LandingMeta": {
-    "title": "AutoSaaS | Mehr Zeit für Kunden. Weniger Zeit im Büro.",
-    "description": "AutoSaaS bündelt alle relevanten Daten zentral: Kunden, Fahrzeuge, Mitarbeiter, Verträge und Rechnungen. Cloudbasiert, DSGVO-konform, Server in Deutschland."
+    "title": "AutoSaaS | Das Dealer-Management-System, das zu Ihrem ERP wird.",
+    "description": "AutoSaaS vereint Fahrzeugbestand, Kunden-CRM, Verkauf, Werkstatt und Finanzen für Autohäuser. Cloudbasiert, DSGVO-konform, Server in Deutschland."
   },
   "LandingPage": {
-    "headlineLine1": "Mehr Zeit für Kunden.",
-    "headlineLine2": "Weniger Zeit im Büro.",
-    "description": "AutoSaaS legt alle relevanten Daten zentral ab. Du pflegst Kunden-, Fahrzeug- und Mitarbeiterstammdaten, erstellst Rechnungen mit einem Klick und arbeitest schneller, sauberer und mit mehr Fokus auf dein Kerngeschäft.",
-    "primaryCta": "Jetzt kostenlos starten",
+    "headlineLine1": "Das Betriebssystem",
+    "headlineLine2": "für moderne Autohäuser.",
+    "description": "AutoSaaS vereint Fahrzeugbestand, Kunden, Verkauf und Werkstatt auf einer Plattform. Entwickelt, um fragmentierte Tools zu ersetzen – und zu einem vollständigen ERP für Ihr Autohaus zu wachsen.",
+    "primaryCta": "Kostenlos starten",
     "secondaryCta": "Demo ansehen",
-    "featureTitle": "Warum Du auf AutoSaaS wechseln solltest",
-    "featureIntro": "Vorteile, die Dir den Alltag sofort erleichtern und Dein Team im Tagesgeschäft spürbar entlasten.",
-    "promise1": "Ohne Installation",
-    "promise2": "Sofort einsatzbereit",
-    "promise3": "In Minuten produktiv",
-    "helpText": "Fragen? Wir helfen dir beim Einstieg.",
-    "finalTitle": "Teste AutoSaaS jetzt kostenlos im echten Tagesgeschäft.",
-    "finalDescription": "Starte ohne Installation und kostenlos. In wenigen Minuten laufen Kunden, Fahrzeuge und Rechnungen in einem klaren Prozess.",
-    "finalCta": "Jetzt kostenlos starten",
+    "featureTitle": "Alles, worauf Ihr Autohaus läuft – eine Plattform.",
+    "featureIntro": "Vom Fahrzeugeingang bis zur abschließenden Rechnung deckt AutoSaaS jeden Arbeitsschritt ab – ohne Tool-Wechsel und Datenverluste.",
+    "promise1": "Vollständige Fahrzeugbestandsverwaltung",
+    "promise2": "Integriertes Werkstatt- & Service-Modul",
+    "promise3": "Digitale Verträge & konforme Rechnungen",
+    "helpText": "Fragen? Unser Team hilft Ihnen beim Start.",
+    "finalTitle": "Kostenlos starten. Auf Ihr ganzes Autohaus skalieren.",
+    "finalDescription": "Beginnen Sie kostenlos mit den Kern-DMS-Funktionen. Upgraden Sie, wenn Ihr Betrieb wächst – AutoSaaS ist darauf ausgelegt, Ihr vollständiges ERP zu werden.",
+    "finalCta": "Kostenloses Konto erstellen",
     "trust": {
-      "ssl": "256-bit SSL-Verschlüsselung",
+      "ssl": "256-Bit-SSL-Verschlüsselung",
       "hosting": "DSGVO-konform, Server in Deutschland",
-      "privacy": "Keine Weitergabe an Dritte"
+      "privacy": "Keine Datenweitergabe an Dritte"
     }
   },
   "FeatureSection": {
     "items": [
       {
-        "title": "Alles in der Cloud",
+        "title": "Fahrzeugbestand",
         "bullets": [
-          "Keine Installation, Start direkt im Browser.",
-          "Serverstandort Deutschland.",
-          "Überall im Web erreichbar und DSGVO-konform."
+          "Vollständiger Bestandsüberblick mit FIN, Status, Kilometerstand und Preis.",
+          "Sofortige Synchronisierung zwischen Inseraten, Verkaufsakten und Werkstatthistorie.",
+          "Fahrzeuge aus jeder Quelle importieren und zentral verwalten."
         ]
       },
       {
-        "title": "Einfache Verwaltung",
+        "title": "Kunden & CRM",
         "bullets": [
-          "Kunden-, Fahrzeug- und Rechnungsdaten zentral pflegen.",
-          "Alle Teams arbeiten mit einem aktuellen Datenstand.",
-          "Weniger Rückfragen und weniger Tool-Wechsel."
+          "Einheitliche Kundendaten mit vollständiger Kaufhistorie und Serviceprotokollen.",
+          "Jede Interaktion über Verkauf, Werkstatt und Nachbetreuung nachverfolgen.",
+          "Automatische Erinnerungen halten Pipeline und Kundenbindung am Laufen."
         ]
       },
       {
-        "title": "Rechtssichere Verträge",
+        "title": "Verkauf & Verträge",
         "bullets": [
-          "Dokumente direkt aus Kunden- und Fahrzeugstamm erstellen.",
-          "Rechtlich geprüfte Vorlagen sofort nutzen.",
-          "Vorlagen einfach und individuell anpassen."
+          "Rechtlich geprüfte Verträge direkt aus den Dealdaten erstellen.",
+          "Digitale Unterschriften und Dokumenten-Workflows in den Ablauf integriert.",
+          "Schneller abschließen mit weniger manuellen Schritten und ohne verlorene Unterlagen."
         ]
       },
       {
-        "title": "Überblick & Compliance",
+        "title": "Werkstatt & Service",
         "bullets": [
-          "Zahlen und Analysen jederzeit auf einen Blick.",
-          "Dokumente im Archivierungsformat sicher speichern.",
-          "E-Rechnung mit XRechnung und ZUGFeRD inklusive."
+          "Werkstattaufträge aus Fahrzeugakten mit einem Klick erstellen.",
+          "Aufgaben an Techniker vergeben und Fortschritt in Echtzeit verfolgen.",
+          "Teile, Arbeitszeit und Rechnungsstellung vollständig integriert."
         ]
       },
       {
-        "title": "Automationen",
+        "title": "Finanzen & Compliance",
         "bullets": [
-          "Fahrzeuge einmal erfassen und zentral verwalten.",
-          "Inserate automatisiert auf Handelsplattformen veröffentlichen.",
-          "Mehr Reichweite bei weniger manuellen Schritten."
+          "DSGVO-konform, mit XRechnung und ZUGFeRD inklusive.",
+          "Dokumente in gesetzlich vorgeschriebenen Archivierungsformaten speichern.",
+          "Audit-Trails, KPI-Dashboards und Berichte jederzeit verfügbar."
         ]
       },
       {
-        "title": "KI Features",
+        "title": "KI & Automatisierung",
         "bullets": [
-          "Fahrzeugakten per Sprache direkt erfassen.",
-          "KI wandelt Inhalte automatisch in klare Bulletpoints.",
-          "Workflows werden laufend optimiert und beschleunigt."
+          "Fahrzeugakten per Sprache erfassen – KI formatiert und archiviert sie.",
+          "Inserate automatisch auf allen wichtigen Fahrzeugplattformen veröffentlichen.",
+          "Workflows, die aus Ihren Daten lernen und sich kontinuierlich verbessern."
         ]
       }
     ]
   },
   "LoginMeta": {
     "title": "Login",
-    "description": "Sicherer Zugang zu deinem AutoSaaS-Workspace."
+    "description": "Sicherer Zugang zu Ihrem AutoSaaS-Workspace."
   },
   "LoginPage": {
     "title": "Anmelden und direkt weiterarbeiten.",
-    "description": "Sicherer Zugriff auf dein AutoSaaS-Konto mit allen Kunden-, Fahrzeug- und Rechnungsdaten an einem Ort.",
+    "description": "Sicherer Zugriff auf Ihr AutoSaaS-Konto – Fahrzeuge, Kunden, Werkstatt und Rechnungen an einem Ort.",
     "trust": {
-      "transport": "256-bit SSL-Verschlüsselung",
+      "transport": "256-Bit-SSL-Verschlüsselung",
       "hosting": "DSGVO-konform, Server in Deutschland",
-      "access": "Keine Weitergabe an Dritte"
+      "access": "Keine Datenweitergabe an Dritte"
     },
     "formTitle": "Willkommen zurück",
-    "formDescription": "Nutze deine geschäftliche E-Mail und dein Passwort.",
+    "formDescription": "Nutzen Sie Ihre geschäftliche E-Mail und Ihr Passwort.",
     "form": {
       "email": "E-Mail",
-      "emailPlaceholder": "name@example.com",
+      "emailPlaceholder": "name@autohaus.de",
       "password": "Passwort",
       "passwordPlaceholder": "••••••••",
       "submit": "Anmelden",
-      "hint": "Sicherer Zugriff mit deinem AutoSaaS-Konto.",
+      "hint": "Sicherer Zugriff mit Ihrem AutoSaaS-Konto.",
       "divider": "oder",
       "social": {
         "microsoft": "Mit Microsoft anmelden",
@@ -115,33 +115,33 @@
       },
       "switch": {
         "prompt": "Noch kein Konto?",
-        "action": "Jetzt kostenlos starten"
+        "action": "Kostenlos starten"
       }
     }
   },
   "RegisterMeta": {
     "title": "Registrierung",
-    "description": "Erstelle dein kostenloses AutoSaaS-Konto und starte sofort."
+    "description": "Erstellen Sie Ihr kostenloses AutoSaaS-Konto und starten Sie sofort."
   },
   "RegisterPage": {
-    "title": "Jetzt kostenlos starten und direkt produktiv werden.",
-    "description": "Erstelle dein AutoSaaS-Konto in unter einer Minute und starte mit Kunden-, Fahrzeug- und Rechnungsdaten in einem klaren Workflow.",
+    "title": "Kostenlos starten. Ihr Autohaus in Minuten einsatzbereit.",
+    "description": "Erstellen Sie Ihr AutoSaaS-Konto in unter einer Minute und starten Sie mit Fahrzeugbestand, Kunden und Werkstattaufträgen in einem klaren Workflow.",
     "trust": {
-      "transport": "256-bit SSL-Verschlüsselung",
+      "transport": "256-Bit-SSL-Verschlüsselung",
       "hosting": "DSGVO-konform, Server in Deutschland",
-      "access": "Keine Weitergabe an Dritte"
+      "access": "Keine Datenweitergabe an Dritte"
     },
     "formTitle": "Kostenloses Konto erstellen",
-    "formDescription": "Nutze deine geschäftliche E-Mail und wähle ein sicheres Passwort.",
+    "formDescription": "Nutzen Sie Ihre geschäftliche E-Mail und wählen Sie ein sicheres Passwort.",
     "form": {
       "email": "E-Mail",
-      "emailPlaceholder": "name@example.com",
+      "emailPlaceholder": "name@autohaus.de",
       "password": "Passwort",
       "passwordPlaceholder": "Mindestens 8 Zeichen",
       "passwordConfirm": "Passwort wiederholen",
       "passwordConfirmPlaceholder": "Passwort erneut eingeben",
       "submit": "Konto erstellen",
-      "hint": "Mit der Registrierung akzeptierst du unsere Nutzungsbedingungen und Datenschutzrichtlinie.",
+      "hint": "Mit der Registrierung akzeptieren Sie unsere Nutzungsbedingungen und Datenschutzrichtlinie.",
       "divider": "oder",
       "social": {
         "microsoft": "Mit Microsoft registrieren",
@@ -162,27 +162,27 @@
     "eyebrow": "404 / Seite nicht gefunden",
     "headlineLine1": "Diese Seite",
     "headlineLine2": "wurde nicht gefunden.",
-    "description": "Die angeforderte Seite ist nicht verfuegbar. Starte auf der Startseite, um ohne Unterbrechung weiterzumachen.",
+    "description": "Die angeforderte Seite ist nicht verfügbar. Starten Sie auf der Startseite, um ohne Unterbrechung weiterzumachen.",
     "primaryCta": "Zur Startseite",
     "diagnosticsEyebrow": "Diagnose",
-    "diagnosticsTitle": "URL pruefen",
-    "diagnosticsDescription": "Bitte pruefe die Schreibweise und das Sprachkuerzel in der Adresse.",
+    "diagnosticsTitle": "URL prüfen",
+    "diagnosticsDescription": "Bitte prüfen Sie die Schreibweise und das Sprachkürzel in der Adresse.",
     "items": {
       "routeMissing": {
         "title": "Seite nicht gefunden",
         "text": "Die angeforderte Adresse existiert in dieser Anwendung nicht."
       },
       "checkUrl": {
-        "title": "URL pruefen",
-        "text": "Bitte pruefe die Schreibweise und das Sprachkuerzel in der Adresse."
+        "title": "URL prüfen",
+        "text": "Bitte prüfen Sie die Schreibweise und das Sprachkürzel in der Adresse."
       },
       "contentMoved": {
         "title": "Inhalt verschoben",
-        "text": "Die Seite wurde moeglicherweise umbenannt oder in einen anderen Bereich verschoben."
+        "text": "Die Seite wurde möglicherweise umbenannt oder in einen anderen Bereich verschoben."
       },
       "nextStep": {
-        "title": "Naechster Schritt",
-        "text": "Gehe zur Startseite zurueck und nutze die Hauptnavigation."
+        "title": "Nächster Schritt",
+        "text": "Gehen Sie zur Startseite zurück und nutzen Sie die Hauptnavigation."
       }
     }
   }
